@@ -23,7 +23,7 @@ This project tackles that problem end-to-end: loading a 7,500+ product Sephora c
 
 ## Dataset
 
-**Primary:** [Cleaned Sephora Products — Kaggle](https://www.kaggle.com/)
+**Primary:** https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews?resource=download 
 
 | Column | Description |
 |--------|-------------|
