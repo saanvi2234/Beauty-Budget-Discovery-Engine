@@ -1,0 +1,370 @@
+raw_name,canonical_name
+water,water
+aqua,water
+eau,water
+aqua/water/eau,water
+water/aqua/eau,water
+purified water,water
+deionized water,water
+distilled water,water
+water (aqua),water
+glycerin,glycerin
+glycerine,glycerin
+glycerol,glycerin
+phenoxyethanol,phenoxyethanol
+linalool,linalool (allergen)
+limonene,limonene (allergen)
+citronellol,citronellol (allergen)
+geraniol,geraniol (allergen)
+citral,citral (allergen)
+coumarin,coumarin (allergen)
+benzyl salicylate,benzyl salicylate (allergen)
+benzyl benzoate,benzyl benzoate (allergen)
+hexyl cinnamal,hexyl cinnamal (allergen)
+hydroxycitronellal,hydroxycitronellal (allergen)
+alpha-isomethyl ionone,isomethyl ionone (allergen)
+eugenol,eugenol (allergen)
+isoeugenol,isoeugenol (allergen)
+farnesol,farnesol (allergen)
+butylphenyl methylpropional,butylphenyl methylpropional (allergen)
+benzyl alcohol,benzyl alcohol
+vitamin e,vitamin e
+tocopheryl acetate,vitamin e
+tocopherol,vitamin e
+tocopherol.,vitamin e
+citric acid,citric acid (aha)
+citric acid.,citric acid (aha)
+lactic acid,lactic acid (aha)
+glycolic acid,glycolic acid (aha)
+mandelic acid,mandelic acid (aha)
+caprylyl glycol,caprylyl glycol
+butylene glycol,butylene glycol
+ethylhexylglycerin,ethylhexylglycerin
+potassium sorbate,potassium sorbate
+dimethicone,silicone (dimethicone)
+simethicone,silicone (dimethicone)
+sodium benzoate,sodium benzoate
+hyaluronic acid,hyaluronic acid
+sodium hyaluronate,hyaluronic acid
+hydrolyzed hyaluronic acid,hyaluronic acid
+caprylic/capric triglyceride,fractionated coconut oil
+caprylic/capric triglyceride (fractionated coconut oil),fractionated coconut oil
+silica,silica
+propanediol,propanediol
+xanthan gum,xanthan gum (thickener)
+sodium hydroxide,sodium hydroxide (ph adjuster)
+disodium edta,disodium edta (chelator)
+cetearyl alcohol,cetearyl alcohol (emollient)
+mica,mica (colorant)
+panthenol,panthenol (provitamin b5)
+bht,bht (antioxidant)
+pentylene glycol,pentylene glycol
+squalane,squalane
+squalane.,squalane
+*squalane.,squalane
+squalene,squalane
+fragrance,fragrance
+parfum,fragrance
+fragrance (parfum),fragrance
+parfum (fragrance),fragrance
+parfum/fragrance,fragrance
+alcohol denat,denatured alcohol
+alcohol denat.,denatured alcohol
+denatured alcohol,denatured alcohol
+sd alcohol,denatured alcohol
+denatured ethyl alcohol,denatured alcohol
+alcohol,alcohol
+isopropyl alcohol,isopropyl alcohol
+aqua/water/eau,water
+titanium dioxide (ci 77891),titanium dioxide (mineral uv)
+titanium dioxide,titanium dioxide (mineral uv)
+zinc oxide,zinc oxide (mineral uv)
+hexylene glycol,hexylene glycol
+isododecane,isododecane (emollient)
+glyceryl stearate,glyceryl stearate (emulsifier)
+polysorbate 20,polysorbate 20 (emulsifier)
+polysorbate 60,polysorbate 60 (emulsifier)
+polysorbate 80,polysorbate 80 (emulsifier)
+sodium chloride,sodium chloride
+helianthus annuus (sunflower) seed oil,sunflower oil
+helianthus annuus (sunflower) seed oil,sunflower oil
+simmondsia chinensis (jojoba) seed oil,jojoba oil
+ethylhexyl methoxycinnamate,octinoxate (uv filter)
+ethylhexylmethoxycinnamate,octinoxate (uv filter)
+ethylhexyl salicylate,octisalate (uv filter)
+ethylhexylsalicylate,octisalate (uv filter)
+butyl methoxydibenzoylmethane,avobenzone (uv filter)
+butylmethoxydibenzoylmethane,avobenzone (uv filter)
+niacinamide,niacinamide
+nicotinamide,niacinamide
+vitamin b3,niacinamide
+camellia sinensis leaf extract,green tea extract
+camellia sinensis (green tea) leaf extract,green tea extract
+aloe barbadensis leaf juice,aloe vera
+aloe barbadensis (aloe vera) leaf juice,aloe vera
+aloe vera,aloe vera
+lecithin,lecithin (emulsifier)
+polyethylene,polyethylene
+octyldodecanol,octyldodecanol (emollient)
+disteardimonium hectorite,disteardimonium hectorite (thickener)
+caffeine,caffeine
+hydroxyethylcellulose,hydroxyethylcellulose (thickener)
+maltodextrin,maltodextrin
+cyclopentasiloxane,silicone (cyclic)
+cyclohexasiloxane,silicone (cyclic)
+sodium pca,sodium pca (humectant)
+rosmarinus officinalis (rosemary) leaf extract,rosemary extract
+cocos nucifera (coconut) oil,coconut oil
+cocos nucifera (coconut) oil,,coconut oil
+ethylhexyl palmitate,ethylhexyl palmitate (emollient)
+acrylates/c10-30 alkyl acrylate crosspolymer,acrylate crosspolymer (thickener)
+dipropylene glycol,dipropylene glycol
+hydroxyacetophenone,hydroxyacetophenone (antioxidant)
+sodium dehydroacetate,sodium dehydroacetate (preservative)
+dehydroacetic acid,dehydroacetic acid (preservative)
+hydrogenated polyisobutene,hydrogenated polyisobutene (emollient)
+leuconostoc/radish root ferment filtrate,leuconostoc ferment (preservative)
+talc,talc
+ascorbyl palmitate,vitamin c derivative
+ascorbic acid,vitamin c
+l-ascorbic acid,vitamin c
+ascorbyl glucoside,vitamin c derivative
+sodium ascorbate,vitamin c derivative
+sodium ascorbyl phosphate,vitamin c derivative
+3-o-ethyl ascorbic acid,vitamin c derivative
+sodium phytate,sodium phytate (chelator)
+glyceryl caprylate,glyceryl caprylate (emulsifier)
+trimethylsiloxysilicate,silicone (trimethylsiloxysilicate)
+propylene carbonate,propylene carbonate
+cetrimonium chloride,cetrimonium chloride (conditioner)
+centrimonium chloride,cetrimonium chloride (conditioner)
+polybutene,polybutene (film former)
+benzoic acid,benzoic acid (preservative)
+salicylic acid,salicylic acid (bha)
+beta hydroxy acid,salicylic acid (bha)
+behentrimonium chloride,behentrimonium chloride (conditioner)
+behentrimonium methosulfate,behentrimonium methosulfate (conditioner)
+diisostearyl malate,diisostearyl malate (emollient)
+arginine,arginine (amino acid)
+trehalose,trehalose (humectant)
+peg-40 hydrogenated castor oil,peg-40 hydrogenated castor oil (emulsifier)
+phenyl trimethicone,silicone (phenyl trimethicone)
+iron oxides (ci 77491),iron oxides (colorant)
+iron oxides (ci 77492),iron oxides (colorant)
+iron oxides (ci 77499),iron oxides (colorant)
+iron oxides (ci 77491),iron oxides (colorant)
+iron oxides (ci 77499),iron oxides (colorant)
+ci 77492,iron oxides (colorant)
+ci 77491,iron oxides (colorant)
+ci 77499,iron oxides (colorant)
+ci 77499),iron oxides (colorant)
+ci 77491),iron oxides (colorant)
+ci 77492),iron oxides (colorant)
+tin oxide,tin oxide (opacifier)
+synthetic fluorphlogopite,synthetic fluorphlogopite (filler)
+lecithin,lecithin (emulsifier)
+carbomer,carbomer (thickener)
+chlorphenesin,chlorphenesin (preservative)
+stearic acid,stearic acid (emollient)
+propylene glycol,propylene glycol
+sodium citrate,sodium citrate (buffer)
+hexylene glycol,hexylene glycol
+2-hexanediol,2-hexanediol (humectant)
+butyrospermum parkii (shea) butter,shea butter
+butyrospermum parkii (shea butter),shea butter
+butyrospermum parkii shea butter,shea butter
+mangifera indica (mango) seed butter,mango butter
+phenoxyethanol,phenoxyethanol
+isopropyl myristate,isopropyl myristate (emollient)
+cetyl alcohol,cetyl alcohol (emollient)
+stearyl alcohol,stearyl alcohol (emollient)
+retinol,retinol
+retinyl palmitate,retinol derivative
+retinyl acetate,retinol derivative
+retinal,retinol derivative
+ceramide np,ceramide
+ceramide ap,ceramide
+ceramide eop,ceramide
+ceramide ng,ceramide
+ceramide 1,ceramide
+ceramide 2,ceramide
+ceramide 3,ceramide
+ceramides,ceramide
+palmitoyl tripeptide-1,peptide complex
+palmitoyl tetrapeptide-7,peptide complex
+acetyl hexapeptide-3,peptide complex
+acetyl hexapeptide-8,peptide complex
+copper tripeptide-1,copper peptide
+allantoin,allantoin
+bisabolol,bisabolol
+alpha-bisabolol,bisabolol
+resveratrol,resveratrol
+ferulic acid,ferulic acid
+bakuchiol,bakuchiol
+adenosine,adenosine
+argania spinosa kernel oil,argan oil
+argania spinosa kernel (argan) oil,argan oil
+rosa canina fruit oil,rosehip oil
+rosa canina (rosehip) seed oil,rosehip oil
+vitis vinifera (grape) seed oil,grapeseed oil
+prunus amygdalus dulcis (sweet almond) oil,sweet almond oil
+persea gratissima (avocado) oil,avocado oil
+adansonia digitata (baobab) oil,baobab oil
+adansonia digitata (baobab) seed oil,baobab oil
+ricinus communis (castor) seed oil,castor oil
+olea europaea (olive) oil,olive oil
+olea europaea (olive) fruit oil,olive oil
+lavandula angustifolia (lavender) flower oil,lavender oil
+lavandula spica (lavender) oil,lavender oil
+lavandula (lavender) spica oil,lavender oil
+mentha piperita (peppermint) oil,peppermint oil
+rosmarinus officinalis (rosemary) leaf oil,rosemary oil
+centella asiatica extract,centella asiatica (cica)
+centella asiatica (l.) urban extract,centella asiatica (cica)
+hydrolyzed wheat protein,hydrolyzed wheat protein
+hydrolyzed quinoa protein,hydrolyzed quinoa protein
+hydrolyzed quinoa,hydrolyzed quinoa protein
+silk amino acids,silk amino acids
+biotin,biotin
+cocamidopropyl betaine,cocamidopropyl betaine (surfactant)
+sodium lauryl sulfate,sls (surfactant)
+sodium laureth sulfate,sles (surfactant)
+sodium cocoyl isethionate,sodium cocoyl isethionate (surfactant)
+decyl glucoside,decyl glucoside (surfactant)
+lauryl glucoside,lauryl glucoside (surfactant)
+phthalates free fragrance,fragrance (phthalate-free)
+phthalate-free fragrance,fragrance (phthalate-free)
+sorbitan isostearate,sorbitan isostearate (emulsifier)
+triethoxycaprylylsilane,triethoxycaprylylsilane (silane)
+pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,antioxidant stabilizer
+hydroxyacetophenone,hydroxyacetophenone (antioxidant)
+leuconostoc/radish root ferment filtrate,leuconostoc ferment (preservative)
+sodium hyaluronate crosspolymer,hyaluronic acid (crosspolymer)
+poly(glyceryl-3 polydimethylsiloxyethyl dimethicone),silicone polymer
+polymethylsilsesquioxane,silicone (powder)
+isostearyl neopentanoate,isostearyl neopentanoate (emollient)
+magnesium aluminum silicate,magnesium aluminum silicate (thickener)
+tocopherol (vitamin e),vitamin e
+disodium edta,disodium edta (chelator)
+tetrasodium edta,tetrasodium edta (chelator)
+pentasodium pentetate,chelator
+trisodium ethylenediamine disuccinate,chelator
+dipotassium glycyrrhizate,licorice root extract
+glycyrrhiza glabra (licorice) root extract,licorice root extract
+niacinamide (vitamin b3),niacinamide
+ascorbic acid (vitamin c),vitamin c
+retinol (vitamin a),retinol
+tocopheryl acetate (vitamin e),vitamin e
+panthenol (provitamin b5),panthenol (provitamin b5)
+camellia japonica (camellia) seed oil,camellia oil
+camellia oleifera (camellia) seed oil,camellia oil
+crambe abyssinica seed oil,crambe oil
+hippophae rhamnoides (sea buckthorn) fruit oil,sea buckthorn oil
+macadamia integrifolia seed oil,macadamia oil
+macadamia ternifolia seed oil,macadamia oil
+sclerocarya birrea (marula) seed oil,marula oil
+calophyllum inophyllum (tamanu) seed oil,tamanu oil
+hydrolyzed collagen,hydrolyzed collagen
+sodium pca,sodium pca (humectant)
+urea,urea (humectant)
+laminaria digitata extract,seaweed extract
+chondrus crispus (carrageenan) extract,seaweed extract
+chlorella vulgaris extract,algae extract
+spirulina platensis extract,spirulina extract
+zinc pca,zinc pca
+sodium ascorbyl phosphate,vitamin c derivative
+magnesium ascorbyl phosphate,vitamin c derivative
+tetrahexyldecyl ascorbate,vitamin c derivative
+colloidal oatmeal,colloidal oatmeal
+avena sativa (oat) kernel extract,oat extract
+avena sativa (oat) kernel flour,oat flour
+kaolin,kaolin (clay)
+bentonite,bentonite (clay)
+montmorillonite,montmorillonite (clay)
+gluconolactone,gluconolactone (pha)
+lactobionic acid,lactobionic acid (pha)
+polyglutamic acid,polyglutamic acid (humectant)
+tremella fuciformis (snow mushroom) extract,snow mushroom extract
+saccharomyces ferment,yeast ferment
+bifida ferment lysate,probiotic ferment
+lactobacillus ferment,probiotic ferment
+palmitoyl tripeptide-38,peptide complex
+sh-oligopeptide-1,epidermal growth factor
+sh-polypeptide-1,growth factor peptide
+acetyl tetrapeptide-9,peptide complex
+tripeptide-1,tripeptide complex
+glycine,glycine (amino acid)
+proline,proline (amino acid)
+serine,serine (amino acid)
+alanine,alanine (amino acid)
+isopropyl palmitate,isopropyl palmitate (emollient)
+c12-15 alkyl benzoate,c12-15 alkyl benzoate (emollient)
+neopentyl glycol diheptanoate,neopentyl glycol diheptanoate (emollient)
+octocrylene,octocrylene (uv filter)
+homosalate,homosalate (uv filter)
+amiloxate,amiloxate (uv filter)
+bisoctrizole,bisoctrizole (uv filter)
+tinosorb s,tinosorb s (uv filter)
+tinosorb m,tinosorb m (uv filter)
+zinc oxide (ci 77947),zinc oxide (mineral uv)
+iron oxides (ci 77491,iron oxides (colorant)
+iron oxides (ci 77499,iron oxides (colorant)
+ultramarines (ci 77007),ultramarines (colorant)
+chromium oxide greens (ci 77288),chromium oxide (colorant)
+chromium hydroxide green (ci 77289),chromium hydroxide (colorant)
+ferric ferrocyanide (ci 77510),ferric ferrocyanide (colorant)
+manganese violet (ci 77742),manganese violet (colorant)
+red 6 (ci 15850),red dye (colorant)
+red 7 lake (ci 15850),red dye (colorant)
+red 28 lake (ci 45410),red dye (colorant)
+yellow 5 lake (ci 19140),yellow dye (colorant)
+blue 1 lake (ci 42090),blue dye (colorant)
+ozokerite,ozokerite (wax)
+ceresin,ceresin (wax)
+beeswax (cera alba),beeswax
+cera alba,beeswax
+candelilla cera (candelilla wax),candelilla wax
+copernicia cerifera (carnauba) wax,carnauba wax
+microcrystalline wax,microcrystalline wax
+paraffin,paraffin wax
+synthetic wax,synthetic wax
+polyethylene wax,polyethylene wax
+silica dimethyl silylate,silica (treated)
+methicone,silicone (methicone)
+dimethicone crosspolymer,silicone (crosspolymer)
+cyclotetrasiloxane,silicone (cyclic)
+decamethylcyclopentasiloxane,silicone (cyclic)
+amodimethicone,silicone (amodimethicone)
+stearamidopropyl dimethylamine,stearamidopropyl dimethylamine (conditioner)
+guar hydroxypropyltrimonium chloride,guar (conditioner)
+polyquaternium-10,polyquaternium-10 (conditioner)
+polyquaternium-11,polyquaternium-11 (conditioner)
+polyquaternium-37,polyquaternium-37 (conditioner)
+polyquaternium-55,polyquaternium-55 (conditioner)
+sodium lauryl sulfoacetate,sodium lauryl sulfoacetate (surfactant)
+sodium lauroyl sarcosinate,sodium lauroyl sarcosinate (surfactant)
+cocamide mea,cocamide mea (surfactant)
+cocamide dea,cocamide dea (surfactant)
+peg-7 glyceryl cocoate,peg-7 glyceryl cocoate (emulsifier)
+peg-100 stearate,peg-100 stearate (emulsifier)
+steareth-2,steareth-2 (emulsifier)
+steareth-20,steareth-20 (emulsifier)
+ceteth-20,ceteth-20 (emulsifier)
+ceteareth-20,ceteareth-20 (emulsifier)
+glyceryl oleate,glyceryl oleate (emulsifier)
+sorbitan oleate,sorbitan oleate (emulsifier)
+hydrogenated lecithin,hydrogenated lecithin (emulsifier)
+propylene glycol dicaprylate/dicaprate,propylene glycol dicaprylate (emollient)
+neopentyl glycol diheptanoate,neopentyl glycol diheptanoate (emollient)
+diisopropyl sebacate,diisopropyl sebacate (emollient)
+adipic acid/neopentyl glycol/trimellitic anhydride copolymer,copolymer film former
+vp/hexadecene copolymer,copolymer film former
+acrylates copolymer,acrylates copolymer (film former)
+ammonium acryloyldimethyltaurate/vp copolymer,acrylate copolymer (thickener)
+hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer,acrylate copolymer (thickener)
+sodium polyacrylate,sodium polyacrylate (thickener)
+carbomer 940,carbomer (thickener)
+carbomer 980,carbomer (thickener)
+tetrasodium glutamate diacetate,chelator
+ethylenediaminetetraacetic acid,edta (chelator)
+glucono-delta-lactone,gluconolactone (pha)
