@@ -10,7 +10,7 @@ This project tackles that problem end-to-end: loading a 7,500+ product Sephora c
 
 ## Objectives
 
-- Load and clean a real-world Sephora product dataset across 8 documented steps with no regular expressions
+- Load and clean a real-world Sephora product dataset across 8 documented steps
 - Build and load a **chemical_synonyms.csv** dataset to standardize ingredient synonym noise (e.g. "Aqua" → "water", "Tocopherol" → "vitamin e")
 - Store structured product data in SQLite (mimicking PostgreSQL) and variable-length ingredient documents in JSON (mimicking MongoDB)
 - Engineer key features: price tier, price-per-ingredient, luxury markup index
